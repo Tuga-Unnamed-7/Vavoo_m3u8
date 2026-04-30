@@ -1,306 +1,306 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2176778441.png" tvg-name="24 KITCHEN (6)" xui-id="24Kitchen.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2176778441.png" tvg-name="24 KITCHEN (6)
 https://vavoo.to/live2/play3/2176778441.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/476765689.png" tvg-name="A BOLA TV (6)" xui-id="ABolaTV.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/476765689.png" tvg-name="A BOLA TV (6)
 https://vavoo.to/live2/play3/476765689.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1726372340.png" tvg-name="A&E (6)" xui-id="AMCBreak.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1726372340.png" tvg-name="A&E (6)
 https://vavoo.to/live2/play3/1726372340.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1972183649.png" tvg-name="AFRO MUSIC CHANNEL (6)" xui-id="AfroMusicChannel.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1972183649.png" tvg-name="AFRO MUSIC CHANNEL (6)
 https://vavoo.to/live2/play3/1972183649.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3972324290.png" tvg-name="ALMA LUSA (6)" xui-id="AlmaLusa.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3972324290.png" tvg-name="ALMA LUSA (6)
 https://vavoo.to/live2/play3/3972324290.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2341819341.png" tvg-name="AMC (6)" xui-id="Amc.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2341819341.png" tvg-name="AMC (6)
 https://vavoo.to/live2/play3/2341819341.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="AMC BREAK (6)" xui-id="AMCBreak.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="AMC BREAK (6)
 https://vavoo.to/live2/play3/1676049953.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="AMC CRIME (6)" xui-id="AMCCrime.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="AMC CRIME (6)
 https://vavoo.to/live2/play3/2077195788.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1348598432.png" tvg-name="AR TV CANAL PARLAMENTO (6)" xui-id="ArTvCanalParlamento.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1348598432.png" tvg-name="AR TV CANAL PARLAMENTO (6)
 https://vavoo.to/live2/play3/1348598432.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/538838100.png" tvg-name="AXN (6)" xui-id="AXN.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/538838100.png" tvg-name="AXN (6)
 https://vavoo.to/live2/play3/538838100.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/474759302.png" tvg-name="AXN MOVIES (6)" xui-id="AXNMovies.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/474759302.png" tvg-name="AXN MOVIES (6)
 https://vavoo.to/live2/play3/474759302.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/477021226.png" tvg-name="AXN WHITE (6)" xui-id="AxnWhite.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/477021226.png" tvg-name="AXN WHITE (6)
 https://vavoo.to/live2/play3/477021226.m3u8"
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3404489721.png" tvg-name="BABY TV (6)" xui-id="BabyTv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3404489721.png" tvg-name="BABY TV (6)
 https://vavoo.to/live2/play3/3404489721.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2894250918.png" tvg-name="BENFICA TV (6)" xui-id="BenficaTV.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2894250918.png" tvg-name="BENFICA TV (6)
 https://vavoo.to/live2/play3/2894250918.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2693440346.png" tvg-name="BIGGS (6)" xui-id="Biggs.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2693440346.png" tvg-name="BIGGS (6)
 https://vavoo.to/live2/play3/2693440346.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3679644515.png" tvg-name="BLAZE (6)" xui-id="AMCBreak.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3679644515.png" tvg-name="BLAZE (6)
 https://vavoo.to/live2/play3/3679644515.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2362437748.png" tvg-name="BLOOMBERG (6)" xui-id="Bloomberg.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2362437748.png" tvg-name="BLOOMBERG (6)
 https://vavoo.to/live2/play3/2362437748.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2249546173.png" tvg-name="BOM SOM CHANNEL (6)" xui-id="BomSomChannel.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2249546173.png" tvg-name="BOM SOM CHANNEL (6)
 https://vavoo.to/live2/play3/2249546173.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/231845708.png" tvg-name="CAMPO PEQUENO (6)" xui-id="CampoPequeno.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/231845708.png" tvg-name="CAMPO PEQUENO (6)
 https://vavoo.to/live2/play3/231845708.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/199161253.png" tvg-name="CANAL 11 (6)" xui-id="Canal11.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/199161253.png" tvg-name="CANAL 11 (6)
 https://vavoo.to/live2/play3/199161253.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="CANAL 180 (6)" xui-id="Canal180.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="CANAL 180 (6)
 https://vavoo.to/live2/play3/1874759730.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3173711892.png" tvg-name="CANAL NOS (6)" xui-id="CanalNos.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3173711892.png" tvg-name="CANAL NOS (6)
 https://vavoo.to/live2/play3/3173711892.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2695839043.png" tvg-name="CANAL PANDA (6)" xui-id="CanalPanda.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2695839043.png" tvg-name="CANAL PANDA (6)
 https://vavoo.to/live2/play3/2695839043.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/747491557.png" tvg-name="CANAL Q (6)" xui-id="CanalQ.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/747491557.png" tvg-name="CANAL Q (6)
 https://vavoo.to/live2/play3/747491557.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1711720571.png" tvg-name="CANCAO NOVA (6)" xui-id="CancaoNova.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1711720571.png" tvg-name="CANCAO NOVA (6)
 https://vavoo.to/live2/play3/1711720571.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2672740913.png" tvg-name="CARTOON NETWORK (6)" xui-id="CartoonNetwork.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2672740913.png" tvg-name="CARTOON NETWORK (6)
 https://vavoo.to/live2/play3/2672740913.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="CARTOONITO (6)" xui-id="Cartoonito.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="CARTOONITO (6)
 https://vavoo.to/live2/play3/1332279307.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3354497993.png" tvg-name="CASA E COZINHA (6)" xui-id="CasaeCozinha.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3354497993.png" tvg-name="CASA E COZINHA (6)
 https://vavoo.to/live2/play3/3354497993.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3988851775.png" tvg-name="CAZA Y PESCA (6)" xui-id="CazaYPesca.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3988851775.png" tvg-name="CAZA Y PESCA (6)
 https://vavoo.to/live2/play3/3988851775.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3682477794.png" tvg-name="CA\u00c7AVISION (6)" xui-id="Caavision.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3682477794.png" tvg-name="CA\u00c7AVISION (6)
 https://vavoo.to/live2/play3/3682477794.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3775102231.png" tvg-name="CBS REALITY (6)" xui-id="CbsReality.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3775102231.png" tvg-name="CBS REALITY (6)
 https://vavoo.to/live2/play3/3775102231.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2596009475.png" tvg-name="CINE MUNDO (6)" xui-id="CineMundo.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2596009475.png" tvg-name="CINE MUNDO (6)
 https://vavoo.to/live2/play3/2596009475.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/805844173.png" tvg-name="CM TV (6)" xui-id="CMTV.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/805844173.png" tvg-name="CM TV (6)
 https://vavoo.to/live2/play3/805844173.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="CNBC (6)" xui-id="Cnbc.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="CNBC (6)
 https://vavoo.to/live2/play3/230373228.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2182682775.png" tvg-name="CNN PORTUGAL (6)" xui-id="CNNPortugal.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2182682775.png" tvg-name="CNN PORTUGAL (6)
 https://vavoo.to/live2/play3/2182682775.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3779249189.png" tvg-name="COMBATE (6)" xui-id="Combate.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3779249189.png" tvg-name="COMBATE (6)
 https://vavoo.to/live2/play3/3779249189.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3588471466.png" tvg-name="CRIME DISTRICT (6)" xui-id="CrimeDistrict.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3588471466.png" tvg-name="CRIME DISTRICT (6)
 https://vavoo.to/live2/play3/3588471466.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/327951467.png" tvg-name="CRIME+ INVESTIGATION (6)" xui-id="CrimeInvestigation.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/327951467.png" tvg-name="CRIME+ INVESTIGATION (6)
 https://vavoo.to/live2/play3/327951467.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 1 (6)" xui-id="Dazn1.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 1 (6)
 https://vavoo.to/live2/play3/288268168.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 2 (6)" xui-id="Dazn2.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 2 (6)
 https://vavoo.to/live2/play3/1452205400.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 3 (6)" xui-id="Dazn3.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 3 (6)
 https://vavoo.to/live2/play3/1810812136.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 4 (6)" xui-id="Dazn4.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="DAZN 4 (6)
 https://vavoo.to/live2/play3/3654160632.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3836623176.png" tvg-name="DAZN 5 (6)" xui-id="Dazn5.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3836623176.png" tvg-name="DAZN 5 (6)
 https://vavoo.to/live2/play3/3836623176.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2735621016.png" tvg-name="DAZN 6 (6)" xui-id="Dazn6.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2735621016.png" tvg-name="DAZN 6 (6)
 https://vavoo.to/live2/play3/2735621016.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/575701033.png" tvg-name="DISCOVERY WORLD (6)" xui-id="DiscoveryWorld.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/575701033.png" tvg-name="DISCOVERY WORLD (6)
 https://vavoo.to/live2/play3/575701033.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2551829420.png" tvg-name="DISNEY+ (6)" xui-id="Disney.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2551829420.png" tvg-name="DISNEY+ (6)
 https://vavoo.to/live2/play3/2551829420.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3318391725.png" tvg-name="DIZI CHANNEL (6)" xui-id="DiziChannel.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3318391725.png" tvg-name="DIZI CHANNEL (6)
 https://vavoo.to/live2/play3/3318391725.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1585099730.png" tvg-name="DOG TV (6)" xui-id="DogTv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1585099730.png" tvg-name="DOG TV (6)
 https://vavoo.to/live2/play3/1585099730.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2635838576.png" tvg-name="E! (6)" xui-id="E.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2635838576.png" tvg-name="E! (6)
 https://vavoo.to/live2/play3/2635838576.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2842227117.png" tvg-name="EURONEWS (6)" xui-id="Euronews.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2842227117.png" tvg-name="EURONEWS (6)
 https://vavoo.to/live2/play3/2842227117.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3654612487.png" tvg-name="EUROSPORT 1 (6)" xui-id="Eurosport1.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3654612487.png" tvg-name="EUROSPORT 1 (6)
 https://vavoo.to/live2/play3/3654612487.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2658438359.png" tvg-name="EUROSPORT 2 (6)" xui-id="Eurosport2.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2658438359.png" tvg-name="EUROSPORT 2 (6)
 https://vavoo.to/live2/play3/2658438359.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3688799089.png" tvg-name="FASHIONTV (6)" xui-id="Fashiontv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3688799089.png" tvg-name="FASHIONTV (6)
 https://vavoo.to/live2/play3/3688799089.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2395509066.png" tvg-name="FATIMA TV (6)" xui-id="FatimaTv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2395509066.png" tvg-name="FATIMA TV (6)
 https://vavoo.to/live2/play3/2395509066.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="FIREMAN SAM (6)" xui-id="FiremanSam.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="FIREMAN SAM (6)
 https://vavoo.to/live2/play3/2568401236.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1960865357.png" tvg-name="FOOD NETWORK (6)" xui-id="FoodNetwork.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1960865357.png" tvg-name="FOOD NETWORK (6)
 https://vavoo.to/live2/play3/1960865357.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/71983983.png" tvg-name="FUEL TV (6)" xui-id="FUELTV.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/71983983.png" tvg-name="FUEL TV (6)
 https://vavoo.to/live2/play3/71983983.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="HBO 2 (6)" xui-id="Hbo2.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="HBO 2 (6)
 https://vavoo.to/live2/play3/3934395114.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3701688.png" tvg-name="HBO PORTUGAL (6)" xui-id="HboPortugal.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3701688.png" tvg-name="HBO PORTUGAL (6)
 https://vavoo.to/live2/play3/3701688.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="HGTV (6)" xui-id="Hgtv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="HGTV (6)
 https://vavoo.to/live2/play3/3100022685.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/525538314.png" tvg-name="HISTORIA (6)" xui-id="Historia.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/525538314.png" tvg-name="HISTORIA (6)
 https://vavoo.to/live2/play3/525538314.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/708084041.png" tvg-name="HOLLYWOOD (6)" xui-id="Hollywood.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/708084041.png" tvg-name="HOLLYWOOD (6)
 https://vavoo.to/live2/play3/708084041.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1181792777.png" tvg-name="INVESTIGATION DISCOVERY (6)" xui-id="InvestigationDiscovery.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1181792777.png" tvg-name="INVESTIGATION DISCOVERY (6)
 https://vavoo.to/live2/play3/1181792777.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1894635407.png" tvg-name="KANUCA TV (6)" xui-id="KanucaTv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1894635407.png" tvg-name="KANUCA TV (6)
 https://vavoo.to/live2/play3/1894635407.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="KOMBAT SPORT (6)" xui-id="KombatSport.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="KOMBAT SPORT (6)
 https://vavoo.to/live2/play3/2018844923.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="KURIAKOS KIDS (6)" xui-id="KuriakosKids.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="KURIAKOS KIDS (6)
 https://vavoo.to/live2/play3/4169387839.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2640469163.png" tvg-name="KURIAKOS TV (6)" xui-id="KuriakosTV.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2640469163.png" tvg-name="KURIAKOS TV (6)
 https://vavoo.to/live2/play3/2640469163.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="LOCAL VIS\u00c3O (6)" xui-id="LocalViso.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="LOCAL VIS\u00c3O (6)
 https://vavoo.to/live2/play3/4001042963.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MCM POP (6)" xui-id="McmPop.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MCM POP (6)
 https://vavoo.to/live2/play3/998167995.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MCM TOP (6)" xui-id="McmTop.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MCM TOP (6)
 https://vavoo.to/live2/play3/3476156840.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MEZZO (6)" xui-id="Mezzo.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MEZZO (6)
 https://vavoo.to/live2/play3/885911308.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MEZZO LIVE (6)" xui-id="MezzoLive.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MEZZO LIVE (6)
 https://vavoo.to/live2/play3/3602344519.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/174225106.png" tvg-name="MOTORVISION TV (6)" xui-id="MotorvisionTv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/174225106.png" tvg-name="MOTORVISION TV (6)
 https://vavoo.to/live2/play3/174225106.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MTV 00S (6)" xui-id="Mtv00S.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MTV 00S (6)
 https://vavoo.to/live2/play3/3875216039.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4017090315.png" tvg-name="MTV CLASSIC (6)" xui-id="MtvClassic.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4017090315.png" tvg-name="MTV CLASSIC (6)
 https://vavoo.to/live2/play3/4017090315.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MTV LIVE (6)" xui-id="MtvLive.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="MTV LIVE (6)
 https://vavoo.to/live2/play3/1168271890.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3558682175.png" tvg-name="MTV PORTUGAL (6)" xui-id="MtvPortugal.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3558682175.png" tvg-name="MTV PORTUGAL (6)
 https://vavoo.to/live2/play3/3558682175.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1196955352.png" tvg-name="NAT GEO (6)" xui-id="NatGeo.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1196955352.png" tvg-name="NAT GEO (6)
 https://vavoo.to/live2/play3/1196955352.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/278568941.png" tvg-name="NAT GEO WILD (6)" xui-id="NatGeoWild.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/278568941.png" tvg-name="NAT GEO WILD (6)
 https://vavoo.to/live2/play3/278568941.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2121846219.png" tvg-name="NBA TV (6)" xui-id="NbaTv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2121846219.png" tvg-name="NBA TV (6)
 https://vavoo.to/live2/play3/2121846219.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="NETFLIX (6)" xui-id="Netflix.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="NETFLIX (6)
 https://vavoo.to/live2/play3/4281516173.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="NEWS NOW (6)" xui-id="NewsNow.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="NEWS NOW (6)
 https://vavoo.to/live2/play3/129116940.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1165966812.png" tvg-name="NICK JUNIOR (6)" xui-id="NickJunior.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1165966812.png" tvg-name="NICK JUNIOR (6)
 https://vavoo.to/live2/play3/1165966812.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2742858545.png" tvg-name="NICKELODEON (6)" xui-id="Nickelodeon.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2742858545.png" tvg-name="NICKELODEON (6)
 https://vavoo.to/live2/play3/2742858545.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2726144103.png" tvg-name="NOS STUDIOS (6)" xui-id="NosStudios.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2726144103.png" tvg-name="NOS STUDIOS (6)
 https://vavoo.to/live2/play3/2726144103.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2111785550.png" tvg-name="ODISSEIA (6)" xui-id="Odisseia.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2111785550.png" tvg-name="ODISSEIA (6)
 https://vavoo.to/live2/play3/2111785550.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2106247479.png" tvg-name="OPTO (6)" xui-id="Opto.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2106247479.png" tvg-name="OPTO (6)
 https://vavoo.to/live2/play3/2106247479.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2171243952.png" tvg-name="PANDA KIDS (6)" xui-id="PandaKids.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2171243952.png" tvg-name="PANDA KIDS (6)
 https://vavoo.to/live2/play3/2171243952.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="PATRULHA PATA (6)" xui-id="PatrulhaPata.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="PATRULHA PATA (6)
 https://vavoo.to/live2/play3/1655711684.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/551507343.png" tvg-name="PORTO CANAL (6)" xui-id="PortoCanal.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/551507343.png" tvg-name="PORTO CANAL (6)
 https://vavoo.to/live2/play3/551507343.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1211778226.png" tvg-name="RECORD TV (6)" xui-id="RecordTv.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1211778226.png" tvg-name="RECORD TV (6)
 https://vavoo.to/live2/play3/1211778226.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3213786206.png" tvg-name="RTP 1 (6)" xui-id="RTP1.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3213786206.png" tvg-name="RTP 1 (6)
 https://vavoo.to/live2/play3/3213786206.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4163765902.png" tvg-name="RTP 2 (6)" xui-id="RTP2.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4163765902.png" tvg-name="RTP 2 (6)
 https://vavoo.to/live2/play3/4163765902.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3310235454.png" tvg-name="RTP 3 (6)" xui-id="RTPNoticias.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3310235454.png" tvg-name="RTP 3 (6)
 https://vavoo.to/live2/play3/3310235454.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1323652899.png" tvg-name="RTP ARENA (6)" xui-id="RtpArena.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1323652899.png" tvg-name="RTP ARENA (6)
 https://vavoo.to/live2/play3/1323652899.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1100907938.png" tvg-name="RTP A\u00c7ORES (6)" xui-id="RTPAcores.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1100907938.png" tvg-name="RTP A\u00c7ORES (6)
 https://vavoo.to/live2/play3/1100907938.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/254790946.png" tvg-name="RTP INTERNACIONAL (6)" xui-id="RTPMundo.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/254790946.png" tvg-name="RTP INTERNACIONAL (6)
 https://vavoo.to/live2/play3/254790946.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3637826537.png" tvg-name="RTP MADEIRA (6)" xui-id="RTPMadeira.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3637826537.png" tvg-name="RTP MADEIRA (6)
 https://vavoo.to/live2/play3/3637826537.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3518481964.png" tvg-name="RTP MEM\u00d3RIA (6)" xui-id="RTPMemoria.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3518481964.png" tvg-name="RTP MEM\u00d3RIA (6)
 https://vavoo.to/live2/play3/3518481964.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="RTP NOT\u00cdCIAS (6)" xui-id="RtpNotcias.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="RTP NOT\u00cdCIAS (6)
 https://vavoo.to/live2/play3/1422411879.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/368968283.png" tvg-name="RTP \u00c1FRICA (6)" xui-id="RTPAfrica.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/368968283.png" tvg-name="RTP \u00c1FRICA (6)
 https://vavoo.to/live2/play3/368968283.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="SANTIAGO DOS MARES (6)" xui-id="SantiagoDosMares.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="SANTIAGO DOS MARES (6)
 https://vavoo.to/live2/play3/4016740092.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3680852273.png" tvg-name="SAUDE+ (6)" xui-id="Saude.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3680852273.png" tvg-name="SAUDE+ (6)
 https://vavoo.to/live2/play3/3680852273.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3762658364.png" tvg-name="SIC (6)" xui-id="SIC.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3762658364.png" tvg-name="SIC (6)
 https://vavoo.to/live2/play3/3762658364.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2736589383.png" tvg-name="SIC CARAS (6)" xui-id="SICCaras.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2736589383.png" tvg-name="SIC CARAS (6)
 https://vavoo.to/live2/play3/2736589383.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1987468951.png" tvg-name="SIC INTERNACIONAL (6)" xui-id="SICInternacional.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1987468951.png" tvg-name="SIC INTERNACIONAL (6)
 https://vavoo.to/live2/play3/1987468951.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2854171354.png" tvg-name="SIC K (6)" xui-id="SICK.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2854171354.png" tvg-name="SIC K (6)
 https://vavoo.to/live2/play3/2854171354.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/590086654.png" tvg-name="SIC MULHER (6)" xui-id="SICMulher.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/590086654.png" tvg-name="SIC MULHER (6)
 https://vavoo.to/live2/play3/590086654.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4112970089.png" tvg-name="SIC NOTICIAS (6)" xui-id="SICNoticias.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4112970089.png" tvg-name="SIC NOTICIAS (6)
 https://vavoo.to/live2/play3/4112970089.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1911367959.png" tvg-name="SIC NOVELAS (6)" xui-id="SICNovelas.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1911367959.png" tvg-name="SIC NOVELAS (6)
 https://vavoo.to/live2/play3/1911367959.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/178864298.png" tvg-name="SIC RADICAL (6)" xui-id="SICRadical.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/178864298.png" tvg-name="SIC RADICAL (6)
 https://vavoo.to/live2/play3/178864298.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3862034077.png" tvg-name="SPORT TV + (6)" xui-id="SportTVPlus.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3862034077.png" tvg-name="SPORT TV + (6)
 https://vavoo.to/live2/play3/3862034077.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3428940222.png" tvg-name="SPORT TV 1 (6)" xui-id="SportTV1.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3428940222.png" tvg-name="SPORT TV 1 (6)
 https://vavoo.to/live2/play3/3428940222.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2344682350.png" tvg-name="SPORT TV 2 (6)" xui-id="SportTV2.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2344682350.png" tvg-name="SPORT TV 2 (6)
 https://vavoo.to/live2/play3/2344682350.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3064015582.png" tvg-name="SPORT TV 3 (6)" xui-id="SportTV3.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3064015582.png" tvg-name="SPORT TV 3 (6)
 https://vavoo.to/live2/play3/3064015582.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/75626190.png" tvg-name="SPORT TV 4 (6)" xui-id="SportTV4.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/75626190.png" tvg-name="SPORT TV 4 (6)
 https://vavoo.to/live2/play3/75626190.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/971104126.png" tvg-name="SPORT TV 5 (6)" xui-id="SportTV5.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/971104126.png" tvg-name="SPORT TV 5 (6)
 https://vavoo.to/live2/play3/971104126.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2118231470.png" tvg-name="SPORT TV 6 (6)" xui-id="SportTV6.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2118231470.png" tvg-name="SPORT TV 6 (6)
 https://vavoo.to/live2/play3/2118231470.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="SPORT TV 7 (6)" xui-id="SportTV7.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="SPORT TV 7 (6)
 https://vavoo.to/live2/play3/1126272030.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1718019314.png" tvg-name="SPORT TV NBA (6)" xui-id="SportTvNba.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1718019314.png" tvg-name="SPORT TV NBA (6)
 https://vavoo.to/live2/play3/1718019314.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/676691326.png" tvg-name="SPORTING TV (6)" xui-id="SportingTV.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/676691326.png" tvg-name="SPORTING TV (6)
 https://vavoo.to/live2/play3/676691326.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR CHANNEL (6)" xui-id="StarChannel.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR CHANNEL (6)
 https://vavoo.to/live2/play3/473732861.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR COMEDY (6)" xui-id="StarComedy.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR COMEDY (6)
 https://vavoo.to/live2/play3/1282781678.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR CRIME (6)" xui-id="StarCrime.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR CRIME (6)
 https://vavoo.to/live2/play3/2422531998.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR LIFE (6)" xui-id="StarLife.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STAR LIFE (6)
 https://vavoo.to/live2/play3/4075632687.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/891358544.png" tvg-name="STAR MOVIES (6)" xui-id="StarMovies.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/891358544.png" tvg-name="STAR MOVIES (6)
 https://vavoo.to/live2/play3/891358544.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY CMUSIC (6)" xui-id="StingrayCmusic.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY CMUSIC (6)
 https://vavoo.to/live2/play3/3266140924.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY ICONCERTS (6)" xui-id="StingrayIconcerts.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY ICONCERTS (6)
 https://vavoo.to/live2/play3/1672952983.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY LOUD (6)" xui-id="StingrayLoud.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY LOUD (6)
 https://vavoo.to/live2/play3/1605242572.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY RETRO (6)" xui-id="StingrayRetro.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STINGRAY RETRO (6)
 https://vavoo.to/live2/play3/2167632122.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STV NOTICIAS (6)" xui-id="StvNoticias.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="STV NOTICIAS (6)
 https://vavoo.to/live2/play3/2941996587.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1633515070.png" tvg-name="SYFY PORTUGAL (6)" xui-id="SyfyPortugal.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1633515070.png" tvg-name="SYFY PORTUGAL (6)
 https://vavoo.to/live2/play3/1633515070.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1699532353.png" tvg-name="TCV INTERNACIONAL (6)" xui-id="TcvInternacional.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1699532353.png" tvg-name="TCV INTERNACIONAL (6)
 https://vavoo.to/live2/play3/1699532353.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1966027521.png" tvg-name="TLC (6)" xui-id="TLC.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1966027521.png" tvg-name="TLC (6)
 https://vavoo.to/live2/play3/1966027521.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1619697698.png" tvg-name="TOROS (6)" xui-id="Toros.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1619697698.png" tvg-name="TOROS (6)
 https://vavoo.to/live2/play3/1619697698.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3663001423.png" tvg-name="TPA NOT\u00cdCIAS (6)" xui-id="TpaNotcias.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3663001423.png" tvg-name="TPA NOT\u00cdCIAS (6)
 https://vavoo.to/live2/play3/3663001423.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4282023659.png" tvg-name="TRAVEL CHANNEL (6)" xui-id="TravelChannel.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/4282023659.png" tvg-name="TRAVEL CHANNEL (6)
 https://vavoo.to/live2/play3/4282023659.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2769296124.png" tvg-name="TRAVELXP (6)" xui-id="Travelxp.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2769296124.png" tvg-name="TRAVELXP (6)
 https://vavoo.to/live2/play3/2769296124.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3430368704.png" tvg-name="TV MANA 1 (6)" xui-id="TVMana1.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3430368704.png" tvg-name="TV MANA 1 (6)
 https://vavoo.to/live2/play3/3430368704.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2346139408.png" tvg-name="TV MANA 2 (6)" xui-id="TVMana2.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2346139408.png" tvg-name="TV MANA 2 (6)
 https://vavoo.to/live2/play3/2346139408.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3790970324.png" tvg-name="TVCINE ACTION (6)" xui-id="TVCineAction.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3790970324.png" tvg-name="TVCINE ACTION (6)
 https://vavoo.to/live2/play3/3790970324.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1761868334.png" tvg-name="TVCINE EDITION (6)" xui-id="TVCineEdition.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1761868334.png" tvg-name="TVCINE EDITION (6)
 https://vavoo.to/live2/play3/1761868334.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3859589230.png" tvg-name="TVCINE EMOTION (6)" xui-id="TVCineEmotion.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3859589230.png" tvg-name="TVCINE EMOTION (6)
 https://vavoo.to/live2/play3/3859589230.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1167702614.png" tvg-name="TVCINE TOP (6)" xui-id="TVCineTop.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/1167702614.png" tvg-name="TVCINE TOP (6)
 https://vavoo.to/live2/play3/1167702614.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="TVCINE+ (6)" xui-id="Tvcine.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="TVCINE+ (6)
 https://vavoo.to/live2/play3/811339888.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2647788125.png" tvg-name="TVI (6)" xui-id="TVI.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2647788125.png" tvg-name="TVI (6)
 https://vavoo.to/live2/play3/2647788125.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2391771240.png" tvg-name="TVI AFRICA (6)" xui-id="TVIAfrica.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2391771240.png" tvg-name="TVI AFRICA (6)
 https://vavoo.to/live2/play3/2391771240.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/956832485.png" tvg-name="TVI FIC\u00c7\u00c3O (6)" xui-id="TVIFiccao.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/956832485.png" tvg-name="TVI FIC\u00c7\u00c3O (6)
 https://vavoo.to/live2/play3/956832485.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3475414729.png" tvg-name="TVI REALITY (6)" xui-id="TVIReality.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/3475414729.png" tvg-name="TVI REALITY (6)
 https://vavoo.to/live2/play3/3475414729.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2446987600.png" tvg-name="UNIFE TV (6)" xui-id="UnifeTV.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/2446987600.png" tvg-name="UNIFE TV (6)
 https://vavoo.to/live2/play3/2446987600.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/299880045.png" tvg-name="V+ TVI (6)" xui-id="VPlusTVI.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to/live2/logo/299880045.png" tvg-name="V+ TVI (6)
 https://vavoo.to/live2/play3/299880045.m3u8
-#EXTINF:-1 group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="W-SPORT (6)" xui-id="Wsport.pt"
+#EXTINF:-1, group-title="Portugal" tvg-logo="https://vavoo.to" tvg-name="W-SPORT (6)
 https://vavoo.to/live2/play3/2869243622.m3u8
